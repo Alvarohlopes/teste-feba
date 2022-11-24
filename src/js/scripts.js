@@ -8,6 +8,27 @@
     };
     let limitList = 9;
 
+    function loader() {
+        var imgs = document.images,
+            len = imgs.length,
+            counter = 0;
+
+        [].forEach.call(imgs, function (img) {
+            if (img.complete)
+                incrementCounter();
+            else
+                img.addEventListener('load', incrementCounter, false);
+        });
+
+        function incrementCounter() {
+            counter++;
+            if (counter === len) {
+                $('.overlay-loading').hide();
+                $('body').css( 'overflow-y', 'auto' );
+            }
+        }
+    }
+
     function fluidScroll() {
         $('a[href^="#"]').on('click', function (e) {
             e.preventDefault();
@@ -289,6 +310,7 @@
         return name.replace(/[^a-zA-Z\s]/g, "").toLowerCase().replaceAll(' ', '-');
     }
 
+    loader();
     fluidScroll();
     animateByScroll();
     knowMore();
