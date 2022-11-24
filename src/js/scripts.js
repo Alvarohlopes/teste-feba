@@ -123,7 +123,7 @@
 
     function getRealEstateJson() {
         $.ajax({
-            url: './../../json/empreendimentos.json',
+            url: './json/empreendimentos.json',
             dataType: 'json'
         }).done(function (realEstate) {
             listRealEstate = realEstate;
