@@ -1,0 +1,30 @@
+{
+  "name": "teste-feba",
+  "version": "1.0.0",
+  "description": "Teste FEBA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./src/scss/styles.scss ./src/css/styles.css --watch --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvarohlopes/teste-feba.git"
+  },
+  "keywords": [
+    "teste",
+    "feba"
+  ],
+  "author": "Alvaro Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvarohlopes/teste-feba/issues"
+  },
+  "homepage": "https://github.com/Alvarohlopes/teste-feba#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}

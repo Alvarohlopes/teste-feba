@@ -1,0 +1,205 @@
+[
+    {
+        "id": "1",
+        "title": "Horizonte Residence",
+        "type": "Apartamento",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Copacabana",
+        "stage": "Pré Lançamento",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            },
+            {
+                "text": "Sala em ambiente aberto",
+                "icon": "./images/icons/bedroom.svg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "One Tower",
+        "type": "Cobertura",
+        "city": "Balneário Camboriú",
+        "neighborhood": "Centro",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Infinity Coast",
+        "type": "Casa",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Copacabana",
+        "stage": "Em Contrução",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Skyline Tower",
+        "type": "Cobertura",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Flamengo",
+        "stage": "Pré Lançamento",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Grande Palace Tower",
+        "type": "Apartamento",
+        "city": "Porto Seguro",
+        "neighborhood": "Taperapuan",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Imperium Tower",
+        "type": "Apartamento",
+        "city": "Natal",
+        "neighborhood": "Santos Reis",
+        "stage": "Em Contrução",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Titanium Tower",
+        "type": "Cobertura",
+        "city": "Balneário Camboriú",
+        "neighborhood": "Barra Sul",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            },
+            {
+                "text": "Sala em ambiente aberto",
+                "icon": "./images/icons/bedroom.svg"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Blue Cost Tower",
+        "type": "Apartamento",
+        "city": "Porto Seguro",
+        "neighborhood": "Taperapuan",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Grand Place Tower",
+        "type": "Cobertura",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Barra da Tijuca",
+        "stage": "Pré Lançamento",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Skyline Tower",
+        "type": "Cobertura",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Flamengo",
+        "stage": "Pré Lançamento",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Grande Palace Tower",
+        "type": "Apartamento",
+        "city": "Porto Seguro",
+        "neighborhood": "Taperapuan",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 3 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "title": "One Tower",
+        "type": "Cobertura",
+        "city": "Balneário Camboriú",
+        "neighborhood": "Centro",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 5 dormitórios sendo 2 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Titanium Tower",
+        "type": "Apartamento",
+        "city": "Balneário Camboriú",
+        "neighborhood": "Barra Sul",
+        "stage": "Aberto para vendas",
+        "description": "Apartamento com 2 dormitórios sendo 1 suite",
+        "more": [
+            {
+                "text": "Condomínio Fechado",
+                "icon": "./images/icons/cam.svg"
+            }
+        ]
+    }
+]

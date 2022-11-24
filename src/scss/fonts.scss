@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/../../fonts/Urbane-LightItalic.eot');
+    src: local('Urbane Light Italic'), local('Urbane-LightItalic'),
+        url('../../fonts/Urbane-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-LightItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-LightItalic.woff') format('woff'),
+        url('../../fonts/Urbane-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-Medium.eot');
+    src: local('Urbane Medium'), local('Urbane-Medium'),
+        url('../../fonts/Urbane-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-Medium.woff2') format('woff2'),
+        url('../../fonts/Urbane-Medium.woff') format('woff'),
+        url('../../fonts/Urbane-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-ThinItalic.eot');
+    src: local('Urbane Thin Italic'), local('Urbane-ThinItalic'),
+        url('../../fonts/Urbane-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-ThinItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-ThinItalic.woff') format('woff'),
+        url('../../fonts/Urbane-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Demi';
+    src: url('../../fonts/Urbane-DemiBold.eot');
+    src: local('Urbane Demi Bold'), local('Urbane-DemiBold'),
+        url('../../fonts/Urbane-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-DemiBold.woff2') format('woff2'),
+        url('../../fonts/Urbane-DemiBold.woff') format('woff'),
+        url('../../fonts/Urbane-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-Heavy.eot');
+    src: local('Urbane Heavy'), local('Urbane-Heavy'),
+        url('../../fonts/Urbane-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-Heavy.woff2') format('woff2'),
+        url('../../fonts/Urbane-Heavy.woff') format('woff'),
+        url('../../fonts/Urbane-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-Thin.eot');
+    src: local('Urbane Thin'), local('Urbane-Thin'),
+        url('../../fonts/Urbane-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-Thin.woff2') format('woff2'),
+        url('../../fonts/Urbane-Thin.woff') format('woff'),
+        url('../../fonts/Urbane-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-BoldItalic.eot');
+    src: local('Urbane Bold Italic'), local('Urbane-BoldItalic'),
+        url('../../fonts/Urbane-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-BoldItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-BoldItalic.woff') format('woff'),
+        url('../../fonts/Urbane-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Extra';
+    src: url('../../fonts/Urbane-ExtraLight.eot');
+    src: local('Urbane Extra Light'), local('Urbane-ExtraLight'),
+        url('../../fonts/Urbane-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-ExtraLight.woff2') format('woff2'),
+        url('../../fonts/Urbane-ExtraLight.woff') format('woff'),
+        url('../../fonts/Urbane-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-HeavyItalic.eot');
+    src: local('Urbane Heavy Italic'), local('Urbane-HeavyItalic'),
+        url('../../fonts/Urbane-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-HeavyItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-HeavyItalic.woff') format('woff'),
+        url('../../fonts/Urbane-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-Bold.eot');
+    src: local('Urbane Bold'), local('Urbane-Bold'),
+        url('../../fonts/Urbane-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-Bold.woff2') format('woff2'),
+        url('../../fonts/Urbane-Bold.woff') format('woff'),
+        url('../../fonts/Urbane-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-MediumItalic.eot');
+    src: local('Urbane Medium Italic'), local('Urbane-MediumItalic'),
+        url('../../fonts/Urbane-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-MediumItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-MediumItalic.woff') format('woff'),
+        url('../../fonts/Urbane-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Demi';
+    src: url('../../fonts/Urbane-DemiBoldItalic.eot');
+    src: local('Urbane Demi Bold Italic'), local('Urbane-DemiBoldItalic'),
+        url('../../fonts/Urbane-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-DemiBoldItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-DemiBoldItalic.woff') format('woff'),
+        url('../../fonts/Urbane-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../../fonts/Urbane-Light.eot');
+    src: local('Urbane Light'), local('Urbane-Light'),
+        url('../../fonts/Urbane-Light.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-Light.woff2') format('woff2'),
+        url('../../fonts/Urbane-Light.woff') format('woff'),
+        url('../../fonts/Urbane-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbane Extra';
+    src: url('../../fonts/Urbane-ExtraLightItalic.eot');
+    src: local('Urbane Extra Light Italic'), local('Urbane-ExtraLightItalic'),
+        url('../../fonts/Urbane-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/Urbane-ExtraLightItalic.woff2') format('woff2'),
+        url('../../fonts/Urbane-ExtraLightItalic.woff') format('woff'),
+        url('../../fonts/Urbane-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
