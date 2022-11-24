@@ -122,12 +122,19 @@
     }
 
     function getRealEstateJson() {
-        $.get('./../../json/empreendimentos.json', function (realEstate) {
+        $.ajax({
+            url: './../../json/empreendimentos.json',
+            dataType: 'json'
+        }).done(function (realEstate) {
             listRealEstate = realEstate;
             getSelectOptions(realEstate);
             getRealEstateList(realEstate);
             showLoadMoreButtom(realEstate);
         });
+
+        // $.get('./../../json/empreendimentos.json', function (realEstate) {
+
+        // });
     }
 
     function getSelectOptions(realEstate) {
