@@ -8,6 +8,7 @@
     };
     let limitList = 9;
 
+    $('body').css( 'overflow-y', 'auto' );
     function loader() {
         var imgs = document.images,
             len = imgs.length,
@@ -24,7 +25,6 @@
             counter++;
             if (counter === len) {
                 $('.overlay-loading').hide();
-                $('body').css( 'overflow-y', 'auto' );
             }
         }
     }
@@ -310,7 +310,7 @@
         return name.replace(/[^a-zA-Z\s]/g, "").toLowerCase().replaceAll(' ', '-');
     }
 
-    loader();
+    // loader();
     fluidScroll();
     animateByScroll();
     knowMore();
