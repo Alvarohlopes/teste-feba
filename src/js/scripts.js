@@ -205,7 +205,7 @@
                         const image = getImageName(item.title);
                         $('.grid-gallery').append(`
                             <div class="item-real-estate scale-in-center real-estate-event-${item.id}"
-                                style="background-image: url('./images/gallery/${image}.webp')">
+                                style="background-image: url('./images/gallery/${image}.jpg')">
                                 <div class="details-item">
                                     <div class="type-item">${item.type}</div>
                                     <div class="name-item">${item.title}</div>
